@@ -1,0 +1,15 @@
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\bin\Debug\net6.0\Tracking.Client.exe
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\bin\Debug\net6.0\Tracking.Client.deps.json
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\bin\Debug\net6.0\Tracking.Client.runtimeconfig.json
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\bin\Debug\net6.0\Tracking.Client.dll
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\bin\Debug\net6.0\Tracking.Client.pdb
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.csproj.AssemblyReference.cache
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.AssemblyInfoInputs.cache
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.AssemblyInfo.cs
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.csproj.CoreCompileInputs.cache
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.dll
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\refint\Tracking.Client.dll
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.pdb
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\Tracking.Client.genruntimeconfig.cache
+C:\Users\msmir\source\repos\TrackingApi\Tracking.Client\obj\Debug\net6.0\ref\Tracking.Client.dll
